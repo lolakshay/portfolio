@@ -53,7 +53,8 @@ body {
 
 /* Box with logo and navbar */
 .box {
-  width: 1535px;
+  width: 100%;
+  max-width: 100%;
   height: 100px;
   background: linear-gradient(to right, #00d3ff, #00b3b3);
   display: flex;
